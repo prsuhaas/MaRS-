@@ -1,0 +1,1 @@
+A random delay is generated, during which the button is monitored to detect early presses. After the delay, the LED is turned on and the current time is recorded using millis(). The program then waits until the button is pressed and records the end time. The reaction time is calculated as the difference between these two timestamps.

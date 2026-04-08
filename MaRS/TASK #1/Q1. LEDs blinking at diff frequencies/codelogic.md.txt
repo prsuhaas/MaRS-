@@ -1,0 +1,1 @@
+Each LED has its own timer variable that stores the last time it changed state. In every loop iteration, the program checks if the required interval has passed using millis(). If so, the LED state is toggled and the timestamp is updated. This allows all LEDs to blink independently without blocking delays.

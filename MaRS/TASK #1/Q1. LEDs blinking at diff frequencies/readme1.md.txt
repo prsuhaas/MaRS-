@@ -1,0 +1,3 @@
+Multiple LEDs with Different Intervals
+
+The circuit uses an Arduino Uno to control multiple LEDs blinking at different time intervals using the millis() function. Each LED tracks its own previous timestamp,allowing them to operate independently without using delay(). This ensures that one LED’s timing does not affect the others. The system demonstrates non-blocking timing control in embedded systems.

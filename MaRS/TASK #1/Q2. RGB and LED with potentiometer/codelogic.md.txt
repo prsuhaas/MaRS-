@@ -1,0 +1,1 @@
+The program reads the potentiometer value using analogRead() and maps it to a suitable PWM range using map(). These mapped values are used with analogWrite() to control the RGB LED color and the blink rate of a normal LED. The loop continuously updates outputs based on real-time input changes. This creates dynamic control of brightness and timing.

@@ -1,0 +1,3 @@
+Controlling an RGB LED Using a Potentiometer 
+
+The potentiometer provides an analog input that is read using analogRead() and mapped to PWM values using map(). These values control the RGB LED’s color and the blinking speed of a separate LED using analogWrite(). As the potentiometer is adjusted, both the color and blink rate change dynamically. This demonstrates analog input processing and PWM-based output control.

@@ -1,0 +1,1 @@
+The program checks if serial data is available and reads it as a string input. The input is compared with a predefined password using conditional statements. Based on the result, the LEDs are controlled to indicate success or failure. An attempt counter is used to lock the system temporarily after multiple incorrect entries.

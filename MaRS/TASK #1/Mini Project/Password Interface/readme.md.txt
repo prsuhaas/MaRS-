@@ -59,7 +59,7 @@ It is a good balance between simplicity and functionality, and it helped me unde
 6. Challenges Faced and Solutions
 
 
-  1. “Variable Not Declared” Error
+  1. 'Variable Not Declared' Error
 
      Issue: Compilation error for input variable
      Cause: Variable declared inside a block but used outside
@@ -78,8 +78,6 @@ It is a good balance between simplicity and functionality, and it helped me unde
 
      Issue: Initially unclear how Arduino receives input
      Solution: Practiced with simple theory and examples
-
----
 
 7. Conclusion
 

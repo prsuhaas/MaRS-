@@ -1,0 +1,4 @@
+I got assigned with task number 3 in which I was tasked with controlling the speed and direction of a motor.
+In the code, I've taken two different functions controlspeed() and controldirection().
+controlspeed() uses the analog input from a potentiometer and maps it to the value of the speed of the motor.
+controldirection() uses a simple if else block to change the values of in1 and in2 orts of the motor from either HIGH to LOW or LOW to HIGH to change the direction that the motor rotates in.
